@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kchansen.github.io/aviationprofile/</loc>
+    <loc>http://localhost:1313/aviationprofile/</loc>
     <lastmod>2014-10-01T18:18:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kchansen.github.io/aviationprofile/about/</loc>
+    <loc>http://localhost:1313/aviationprofile/about/</loc>
     <lastmod>2014-10-01T18:18:12-05:00</lastmod>
   </url>
   
