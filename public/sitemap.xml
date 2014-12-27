@@ -2,14 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/aviationprofile/</loc>
-    <lastmod>2014-10-01T18:18:12-05:00</lastmod>
+    <loc>http://kchansen.github.io/aviationprofile/</loc>
+    <lastmod>2014-12-27T08:00:12-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/aviationprofile/about/</loc>
-    <lastmod>2014-10-01T18:18:12-05:00</lastmod>
+    <loc>http://kchansen.github.io/aviationprofile/profiles/caseyhansen/</loc>
+    <lastmod>2014-12-27T08:00:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kchansen.github.io/aviationprofile/test/</loc>
+    <lastmod>2014-12-27T07:59:43-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kchansen.github.io/aviationprofile/about/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

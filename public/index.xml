@@ -3,23 +3,45 @@
   <channel>
       <title>Recent Content on AviationProfile.me </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/aviationprofile/index.xml/</link>
+    <link>http://kchansen.github.io/aviationprofile/index.xml/</link>
     <language>en-us</language>
     
     
-    <updated>Wed, 01 Oct 2014 18:18:12 CDT</updated>
+    <updated>Sat, 27 Dec 2014 08:00:12 CST</updated>
+    
+    <item>
+      <title>Casey Hansen&#39;s Profile</title>
+      <link>http://kchansen.github.io/aviationprofile/profiles/caseyhansen/</link>
+      <pubDate>Sat, 27 Dec 2014 08:00:12 CST</pubDate>
+      
+      <guid>http://kchansen.github.io/aviationprofile/profiles/caseyhansen/</guid>
+      <description>&lt;p&gt;This will be Casey&amp;rsquo;s profile.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>http://kchansen.github.io/aviationprofile/test/</link>
+      <pubDate>Sat, 27 Dec 2014 07:59:43 CST</pubDate>
+      
+      <guid>http://kchansen.github.io/aviationprofile/test/</guid>
+      <description>&lt;p&gt;Hello. This is a test page. Not sure what it&amp;rsquo;s about, though.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/aviationprofile/about/</link>
-      <pubDate>Wed, 01 Oct 2014 18:18:12 CDT</pubDate>
+      <link>http://kchansen.github.io/aviationprofile/about/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/aviationprofile/about/</guid>
+      <guid>http://kchansen.github.io/aviationprofile/about/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;My First Headline&lt;/h2&gt;
 
 &lt;p&gt;My first Hugo content. Hello world! &lt;strong&gt;Bold text.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Test&lt;/p&gt;
 </description>
     </item>
     

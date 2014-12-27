@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Profiles on AviationProfile.me </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://kchansen.github.io/aviationprofile/profiles/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Sat, 27 Dec 2014 08:00:12 CST</updated>
+    
+    <item>
+      <title>Casey Hansen&#39;s Profile</title>
+      <link>http://kchansen.github.io/aviationprofile/profiles/caseyhansen/</link>
+      <pubDate>Sat, 27 Dec 2014 08:00:12 CST</pubDate>
+      
+      <guid>http://kchansen.github.io/aviationprofile/profiles/caseyhansen/</guid>
+      <description>&lt;p&gt;This will be Casey&amp;rsquo;s profile.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
